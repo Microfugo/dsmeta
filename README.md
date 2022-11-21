@@ -2,24 +2,24 @@ Projeto de uma tabela de banco de dados com frontend e backend
 
 Ferramentas que foram utilizadas na construção do projeto:
 
-+JavaScript
+* JavaScript
 
-+NodeJS
+* NodeJS
 
-+Yarn
+* Yarn
 
-+VS Code
+* VS Code
 
-+HTML
+* HTML
 
-+CSS
+* CSS
 
-+Postman
+* Postman
 
-+Twilio
+* Twilio
 
-+ReactJS
+* ReactJS
 
-+TypeScript
+* TypeScript
 
-+Heroku CLI  
++ Heroku CLI  
