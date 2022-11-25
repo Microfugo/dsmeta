@@ -3,7 +3,7 @@ Projeto de uma tabela de banco de dados com frontend e backend
 Ferramentas que foram utilizadas na construção do projeto:
 
 * CSS
-+ Heroku CLI  
+* Heroku CLI
 * HTML
 * JavaScript
 + Netlify
